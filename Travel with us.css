@@ -87,6 +87,7 @@
 }
 .container1 h1{
     padding-top: 280px;
+  
 }
 
 .container1 h3{
@@ -94,10 +95,17 @@
     color: white;
 }
 .container1 button{
+    background-color: orange;
     margin-top: 25px;
     padding: 10px 25px 10px 25px;
     cursor: pointer;
+    color: white;
+    border: none;
 }
+.container1 button:hover{
+    background-color: red;
+}
+
 .heading1{
     height: 140px;
     width: 100%;
@@ -138,6 +146,11 @@
     padding: 10px 15px 10px 15px;
     cursor: pointer;
 }
+.box1 button:hover{
+    background-color: red;
+    border: 2px solid red;
+    color: white;
+}
 .box1 img{
     height: 200px;
     width: 330px;
@@ -171,13 +184,18 @@
 .heading3 input{
     width: 40%;
     height: 40px;
+    
 }
 .heading3 button{
     padding: 10px 15px 10px 15px;
     color: white;
-    background-color: rgba(39, 162, 135, 0.717);
+    background-color: purple;
     cursor: pointer;
     border: none;
+}
+
+.heading3 button:hover{
+    background-color: red;
 }
 /* container2 end */
 
