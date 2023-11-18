@@ -80,7 +80,7 @@
 .container1{
     height: 100vh;
     width: 100%;
-    background-image: url("https://wallup.net/wp-content/uploads/2019/05/10/994278-beautiful-nature-forest-house-autumn-amazing-beauty-waterfall-landscape.jpg");
+    background-image: url("./Container1.jpg");
      background-size: cover; 
     background-repeat: no-repeat;
     text-align: center; 
@@ -171,7 +171,7 @@
 .heading3{
     height: 220px;
     width: 100%;
-    background-image: url("https://wallpaperaccess.com/full/721192.jpg");
+    background-image: url("./heading3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
